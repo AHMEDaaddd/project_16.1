@@ -83,3 +83,4 @@ class Category:
             )
         self.products.append(product)
         Category.product_count += 1
+# 📌 Домашка 16.1 — SkyPro
